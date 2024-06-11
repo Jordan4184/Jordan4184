@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jordan4184, I'm a passionate and dedicated newcomer to the programming world, currently honing my skills in Python, HTML, CSS, JavaScript, Node.js, PostgreSQL, and Streamlit. My journey in tech has just begun, and I am enthusiastically exploring different paths, with a keen interest in becoming a full-stack developer.
+- 👋 Hi, I’m @Jordan4184, I'm a passionate and dedicated newcomer to the programming world, currently honing my skills in Python, HTML, CSS, JavaScript, Node.js, React, PostgreSQL, and Streamlit. My journey in tech has just begun, and I am enthusiastically exploring different paths, with a keen interest in becoming a full-stack developer.
 
 - 🌱 I'm committed to continuous learning and growth, eagerly diving into new technologies and frameworks that will broaden my understanding and enhance my capabilities. As I navigate through my tech journey, I am open to collaborations and projects that will challenge me and push the boundaries of my knowledge.
 
