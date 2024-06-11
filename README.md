@@ -10,7 +10,7 @@
   
 - ⚡ Fun fact: Background in Neuroscience
 
-<p aligh="center">### :hammer_and_wrench: Languages and Tools:</p>
+<p align="center">### :hammer_and_wrench: Languages and Tools :hammer_and_wrench:</p>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
