@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jordan4184, a passionate and dedicated newcomer to the programming world, currently honing my skills as a full-stack developer. I am enthusiastically learning various skill sets, such as HTML, CSS, JavaScript, Node.js, PostgreSQL, and more with a keen interest in becoming a full-stack developer.
+- 👋 Hi, I’m @Jordan4184, a passionate and dedicated newcomer to the programming world, currently honing my skills as a full-stack developer. I am enthusiastically learning various skill sets, such as HTML, CSS, JavaScript, Python, SQL, and more with a keen interest in becoming a full-stack developer.
 
 - 🌱 I'm committed to continuous learning and growth, eagerly diving into new technologies, algorithms, designs, and frameworks that will broaden my understanding and enhance my capabilities. As I navigate my tech journey, I am open to collaborations and projects that will challenge me and push the boundaries of my knowledge.
 
@@ -13,7 +13,7 @@
 <p align="center">:hammer_and_wrench: Languages and Tools :hammer_and_wrench:</p>
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+ <!--<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;-->
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
