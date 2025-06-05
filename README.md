@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jordan4184, a passionate and dedicated newcomer to the programming world, currently honing my skills as a full-stack developer. I am enthusiastically learning various skill sets, such as HTML, CSS, JavaScript, Python, SQL, and more with a keen interest in becoming a full-stack developer.
+- 👋 Hi, I’m @Jordan4184, a passionate and dedicated newcomer to the programming world, currently honing my skills as a full-stack developer. I am enthusiastically learning various skill sets, such as HTML, CSS, JavaScript, Python, and more with a keen interest in becoming a full-stack developer.
 
 - 🌱 I'm committed to continuous learning and growth, eagerly diving into new technologies, algorithms, designs, and frameworks that will broaden my understanding and enhance my capabilities. As I navigate my tech journey, I am open to collaborations and projects that will challenge me and push the boundaries of my knowledge.
 
@@ -18,7 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;-->
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;-->
