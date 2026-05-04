@@ -1,14 +1,14 @@
-- 👋 Hi, I’m @Jordan4184, a passionate and dedicated newcomer to the programming world, currently honing my skills as a full-stack developer. I am enthusiastically learning various skill sets, such as HTML, CSS, JavaScript, Python, and more with a keen interest in becoming a full-stack developer.
+- 👋 Hi, I'm @Jordan4184 — full-stack developer and data scientist building at the intersection of web engineering and applied ML/AI.
 
-- 🌱 I'm committed to continuous learning and growth, eagerly diving into new technologies, algorithms, designs, and frameworks that will broaden my understanding and enhance my capabilities. As I navigate my tech journey, I am open to collaborations and projects that will challenge me and push the boundaries of my knowledge.
+- 🛠️ I work across the stack: Python for data science and ML pipelines (pandas, scikit-learn, LightGBM), JavaScript and SQL for application development, and increasingly applied AI / LLM tooling for real-world problems.
 
-- 🔭 I am actively working on personal projects that integrate my skills in front-end and back-end development, aiming to build responsive web applications and beautiful websites. My goal is to contribute meaningful and impactful solutions to the tech community.
+- 📊 Recent focus: time-series modeling, financial ML, and reproducible data pipelines. Capstone project: an end-to-end swing trading strategy with walk-forward validation and a backtest framework.
 
-- 💬 Feel free to reach out if you have any advice, opportunities, or want to connect and talk tech!
+- 🌱 Background in Neuroscience — I came to engineering through curiosity about how systems learn, and that lens shapes how I think about ML and product design.
 
-- 📫 How to reach me: itsjordandonaldson@gmail.com
-  
-- ⚡ Fun fact: Background in Neuroscience
+- 💬 Open to collaboration on data science, ML/AI, and full-stack projects. Always interested in talking shop with people building real things.
+
+- 📫 Reach me: itsjordandonaldson@gmail.com
 
 <p align="center">:hammer_and_wrench: Languages and Tools :hammer_and_wrench:</p>
 
@@ -21,7 +21,7 @@
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;-->
-  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
 </div>
 
 <!---
