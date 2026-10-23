@@ -2,7 +2,7 @@
 
 - 🛠️ I work across the stack: Python for data science and ML pipelines (pandas, scikit-learn, LightGBM), JavaScript and SQL for application development, and increasingly applied AI / LLM tooling for real-world problems.
 
-- 📊 Recent focus: time-series modeling, financial ML, and reproducible data pipelines. Capstone project: an end-to-end swing trading strategy with walk-forward validation and a backtest framework.
+- 📊 Recent focus: time-series modeling, financial ML, and reproducible data pipelines. End-to-end swing trading strategy with walk-forward validation and a backtest framework. Learning: Swift for IOS development.
 
 - 🌱 Background in Neuroscience — I came to engineering through curiosity about how systems learn, and that lens shapes how I think about ML and product design.
 
@@ -13,16 +13,12 @@
 <p align="center">:hammer_and_wrench: Languages and Tools :hammer_and_wrench:</p>
 
 <div align="center">
- 
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
- <!--<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;-->
+  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;-->
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <i class="devicon-swift-plain colored"></i>
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;-->
